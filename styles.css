@@ -1,0 +1,49 @@
+body
+{
+    background-color: yellowgreen;
+    color: rgb(55, 55, 55);
+}
+
+.container
+{
+    width: 800px;
+    margin: 16px auto;
+}
+
+head
+{
+
+}
+
+nav li
+{
+    display: inline;
+    margin-right: 16px;
+}
+
+nav a
+{
+    color:black;
+}
+
+nav a:hover
+{
+    color:grey;
+}
+
+footer
+{
+    background-color: black;
+    color: white;
+    display:grid;
+    font-size: 32px;
+}
+
+contacts
+{
+    display: grid;
+    color:white;
+    background-color: blueviolet;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
